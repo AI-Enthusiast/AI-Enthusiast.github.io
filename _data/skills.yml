@@ -1,30 +1,37 @@
 languages:
-  - C#
-  - Kotlin
-  - Dart
-  - Typescript
-  - HTML5
-  - CSS3 / Sass
+  - Python
+  - R
   - SQL
-  - GraphQL
+  - Java
+  - C#
+  - C
+  - HTML / CSS / JS
+  - Haskel
+  - Racket
+  - Scheme
+  - Prolog
+  - Assembly
 
-frameworks:
-  - ASP.Net
-  - WPF
-  - Android
-  - Flutter
-  - Express
-  - Apollo
-  - React
-  - Jekyll
-
-tools:
-  - Git / GitHub
+Technologies:
+  - AWS
   - Docker
-  - Firebase
-  - Visual Studio
-  - Visual Studio Code
-  - Android Studio
+  - GGPlot
+  - Git / VSC
+  - Hadoop / Spark
   - Linux
-  - Adobe Photoshop
-  - Adobe Illustrator
+  - PowerBI / Looker / Tableau
+  - Tidyverse
+  - TensorFlow / Keras / PyTorch
+
+Relevant Coursework:
+  - Advanced Machine Learning
+  - Applied Machine Learning
+  - Artificial Intelligence
+  - Cloud Computing
+  - Data Ethics
+  - Data Science Modeling
+  - Data Visualization
+  - Data Engineering
+  - Programming Languages Concepts
+  - Stats with R
+  - Survival Analysis
