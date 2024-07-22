@@ -3,5 +3,5 @@
     <circle cx="18" cy="18" r="14" fill="white" stroke="white"/>
     <circle cx="18" cy="18" r="10" fill="black" stroke="black"/>
     <line x1="16.99998" y1="38" x2="16.99998" stroke="black" stroke-width="4"/>
-    <line x1="18.99998" y1="32.44" x2="18.99998" stroke="white" stroke-width="3" y2="3.66"/>
+    <line x1="18.99998" y1="33.44" x2="18.99998" stroke="white" stroke-width="3" y2="2.66"/>
 </svg>
