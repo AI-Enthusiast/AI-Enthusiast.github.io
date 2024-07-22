@@ -1,138 +1,161 @@
-- name: LoForm
+# project urls can be a github.io page, a github repo, or any other link
+- name: PDX Housing Analysis
   featured: true
-  url: https://YoussefRaafatNasry.github.io/lo_form/
+  url: https://github.com/AI-Enthusiast/PDX-Housing-Analysis
   description:
-    Lightweight and Low-code forms library for Flutter, that is inspired by the great React's Formik.
+    An exploration of the PDX housing market (july 2020 - july 2021) and performing a 
+    survival analysis of the market in addition to a predictive pricing model.
   tags:
-    - Dart
-    - Flutter
+    - Survival Analysis
+    - Applied Machine Learning
+    - Data Visualization
 
-- name: Attendit
-  url: https://github.com/YoussefRaafatNasry/attendit/
+- name: Language Bias Check
+  url: https://github.com/averyPike/languageBiasCheck
   description:
-    Attendit is a SPA for exploring and booking events, at least for now. I use it as
-    a demo to learn Full-stack Development.
+    Using POS tagging for pronouns to detect objectification, and combined with NER to 
+    predict the gender of a character in a text.
   tags:
-    - Apollo GraphQL
-    - mongoDB
-    - React
+    - Spark NLP
+    - Spacy
+    - NLP
 
-- name: Aljurythm
-  url: https://www.nuget.org/packages/Aljurythm/
+- name: Job Search
+  url: https://github.com/AI-Enthusiast/Job_Search
   description:
-    A code judge that I have created for my Algorithms Course's Assignments, to replace
-    boilerplate code and display better outputs. It's like a testing mini-library.
+    Scrapes Jobs From Indeed, LinkedIn, Blind, and SimplyHired. Then leverages users
+    skills in a weighted algorithm to find the best job for them. Also includes a
+    survival analysis of the job market.
   tags:
-    - C#
-    - NuGet Package Manager
+    - Selenium
+    - SQL
+    - Machine Learning
 
-- name: Detoxicated
+- name: Fire Lookout
   featured: true
-  url: https://YoussefRaafatNasry.github.io/detoxicated/
+  url: https://github.com/AI-Enthusiast/Fire_Lookout
   description:
-    Keeping track of my social media detox, time since I've left Facebook and Instagram.
-    I think you should try quitting it too.
+    Scrapes wildfire data from various sources and uses fuzzy matching to create a
+    database of wildfires. Then uses a predictive model to predict the likelihood of
+    a wildfire in a given area.
   tags:
-    - HTML
-    - CSS
+    - BeautifulSoup
+    - Machine Learning
+    - Data Visualization
 
-- name: otto
+- name: Colon Cancer Survival Analysis
   featured: true
-  url: https://YoussefRaafatNasry.github.io/otto/
+  url:
   description:
-    otto is a smart mini-assistant that can reply "otto-matically" to basic messages
-    on chatting apps like WhatsApp, Messenger, etc. He can also do basic tasks like
-    adding received tracks to my on Spotify's liked songs.
+    Performed a survival analysis on a colon cancer dataset, comparing treatments,
+    age and other factors to determine the best course of action for patients.
   tags:
-    - Kotlin
-    - Android
-    - Spotify API
+    - Survival Analysis
+    - Survivalverse
+    - Data Visualization
 
-- name: portfolYOU
+- name: Ti84 Cheat Programs
   featured: true
-  url: https://YoussefRaafatNasry.github.io/portfolYOU/
+  url: https://github.com/AI-Enthusiast/TI84-Cheat-Programs
   description:
-    portfolYOU is a free modern open-source Jekyll portfolio and blogging theme that works
-    with GitHub Pages with a plenty of elements and a lot of possible customizations.
+    Programs most built to make math exams and homework easier. Programs build
+    2013-2016, many by me, many more not by me. Please use and distribute further
   tags:
-    - Jekyll
-    - HTML
-    - Sass
-    - Ruby Gems
+    - Ti Basic
+    - Calculator
+    - Cheat Programs
 
-- name: ScoutsEncoder
+- name: C and Java like interpreter
   featured: true
-  url: https://YoussefRaafatNasry.github.io/ScoutsEncoder/
+  url: https://github.com/AI-Enthusiast/C-and-Java-like-Interpreter
   description:
-    A WPF application that encodes arabic plain text into scouts' ciphers with
-    a single button click. Usually scouts' leaders used to do the encoding using pen and paper.
+    A full interpreter for a language that is a mix between C and Java. Includes
+    a lexer, parser, and interpreter.
   tags:
-    - WPF
-    - C#
-    - Material Design
+    - Scheme
+    - Interpreter
+    - Lexer
+    - Parser
 
-- name: Git for Wizards
+- name: YT Music AI
   featured: true
   url: https://github.com/YoussefRaafatNasry/git-for-wizards/
   description:
-    A repo about, yeah you guessed it right, Git & GitHub where I expose most of the magic
-    spells that I have learned and the magic wands that I use regularly.
+    Scraps music from YT and stores meta data about music. It then analyzes the music
+    files and learns the characteristics of high performing music. Model is then trained to 
+    predict high performing songs, selects underrated music from downloaded.
   tags:
-    - Git
-    - GitHub
+    - Machine Learning
+    - Scraping
+    - Google API
 
-- name: CP Journey
+- name: Smart Trap
   url: https://github.com/YoussefRaafatNasry/cp-journey/
   description:
-    Learning a lot of data structures and algorithms and solving much more problems
-    to improve my problem solving and critical thinking skills.
+    A Livetrap (havahart like) that can detect the type of animal inside and make a decision
+    on triggering the trap or not. It can also send a notifications to the user.
   tags:
     - Competitive Programming
 
-- name: DRG
-  url: https://github.com/YoussefRaafatNasry/dummy-repo-generator/
+- name: Inky World
+  url: https://github.com/AI-Enthusiast/Inky
   description:
-    A bash script to generate git repository with dummy commits, helpful for educational
-    purposes and to try new git commands without destroying real-life repositories.
+    Refresh this low energy display every 10 mins with, the news, weather, quotes, 
+    deviant art, personal pictures and xkcd comics.
   tags:
-    - Bash
-    - Script
+    - Raspberry Pi
+    - Python
+    - Inky
+    - BeutifulSoup
 
-- name: Identicon Generator
-  url: https://github.com/YoussefRaafatNasry/identicon-generator/
+- name: WW2 U-Boat Survival Analysis
+  url: https://github.com/AI-Enthusiast/WW2_Analysis
   description:
-    An Identicon is a visual representation of a hash value, usually of an IP address,
-    that serves to identify a user of a computer system as a form of avatar while
-    protecting the users' privacy.
+      Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
+      analysis on the dataset to determine the best course of action for a U-Boat captain.
   tags:
-    - JavaFX
-    - Java
-
-- name: BST ASCII Visualization
-  url: https://github.com/YoussefRaafatNasry/bst-ascii-visualization/
-  description:
-    A command line tool for visualizing Binary Search Trees using an algorithm
-    I have developed myself from multiple algorithms that are available in
-    my case study.
-  tags:
-    - C++
+    - Survival Analysis
+    - Beautiful Soup
     - Data Visualization
 
-- name: RESx
-  url: https://resx.github.io/
+- name: Google Pinger
+  url: https://github.com/AI-Enthusiast/wifi_pinger
   tagline: Courses' materials and resources
   description:
-    An unofficial community for collaboration to update and organize learning
-    resources of Faculty of Computer and Information Sciences at Ain Shams University.
+    A simple script that pings google every 10 s to keep the internet connection alive.
+    When lost it alerts the user and begins to attempt to reconnect.
   tags:
-    - Jekyll
-    - HTML
-    - Sass
-    - GitHub API
+    - Requests
+    - Python
+    - Script
 
-- name: v1
-  url: https://YoussefRaafatNasry.github.io/v1/
+
+- name: UFC Lobo
+  url: https://github.com/AI-Enthusiast/UFC_lobo
   description:
-    First iteration of my personal website. It was a light theme, so not a big deal...
+    Scrapes UFC data and compares fighters to assist in determining the outcome of a fight. 
+    Future plans include limb approximation for a better dataset creation.
   tags:
-    - Jekyll
+    - BeautifulSoup
+    - Machine Learning
+    - Data Visualization
+
+
+- name: Game of Life
+  url: https://github.com/AI-Enthusiast/Game-of-Life
+  description:
+    An implementation of Conway's Game of Life in Python that allows for the user to
+    set the board size and interact with the board.
+  tags:
+    - Python
+    - Game of Life
+    - Pygame
+
+  #- name: Laputa
+  #  url:
+  #  description:
+  #    Drone swarms which are capable of creating a 3D map of the environment and points of interest.
+  #    Maintain surveillance and provide real-time data to the user.
+  #  tags:
+  #    - Bash
+  #    - Script
