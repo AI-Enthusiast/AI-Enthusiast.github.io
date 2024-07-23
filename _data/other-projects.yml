@@ -1,13 +1,16 @@
-- name:
-  url:
+- name: Kickstarter Success Analysis
+  url: https://github.com/AI-Enthusiast/Kickstarter_Success_Analysis
   description:
-
+    Analyzed Kickstarter data to determine what factors lead to a successful campaign.
   tags:
-    -
+    - Data Visualization
+    - Analysis
 
-- name:
-  url:
+- name: My Portfolio
+  url: https://ai-enthusiast.github.io/
   description:
-
+    The first website I ever made, showcasing my projects and blog posts.
   tags:
-    -
+    - Web Development
+    - HTML
+    - Jekyll
