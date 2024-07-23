@@ -94,7 +94,9 @@
     A Livetrap (havahart like) that can detect the type of animal inside and make a decision
     on triggering the trap or not. It can also send a notifications to the user.
   tags:
-    - Competitive Programming
+    - CV2
+    - Image Classification
+    - Raspberry Pi
 
 - name: Inky World
   url: https://github.com/AI-Enthusiast/Inky
