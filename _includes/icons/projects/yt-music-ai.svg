@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9 14H3" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M8 18H3" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M17 16.5V12.5V8" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<circle cx="14.5" cy="16.5" r="2.5" stroke="#1C274C" stroke-width="1.5"/>
-<path d="M21 12C18.7909 12 17 10.2091 17 8" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M3 6H10.4118M15 6H13.4118" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M13 10L6.82353 10M3 10H4.32353" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+
+    <rect x="0" fill="none" width="20" height="20"/>
+
+    <g>
+
+        <path d="M17 3V1H2v2h15zm0 4V5H2v2h15zM6 11V9H2v2h4zm2-2h9c.55 0 1 .45 1 1v8c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1v-8c0-.55.45-1 1-1zm3 7l3.33-2L11 12v4zm-5-1v-2H2v2h4zm0 4v-2H2v2h4z"/>
+
+    </g>
+
 </svg>
