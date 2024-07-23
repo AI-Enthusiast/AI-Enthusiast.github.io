@@ -11,6 +11,7 @@
     - Data Visualization
 
 - name: Language Bias Check
+  featured: true
   url: https://github.com/averyPike/languageBiasCheck
   description:
     Using POS tagging for pronouns to detect objectification, and combined with NER to 
@@ -21,6 +22,7 @@
     - NLP
 
 - name: Job Search
+  featured: true
   url: https://github.com/AI-Enthusiast/Job_Search
   description:
     Scrapes Jobs From Indeed, LinkedIn, Blind, and SimplyHired. Then leverages users
@@ -32,7 +34,6 @@
     - Machine Learning
 
 - name: Fire Lookout
-  featured: true
   url: https://github.com/AI-Enthusiast/Fire_Lookout
   description:
     Scrapes wildfire data from various sources and uses fuzzy matching to create a
@@ -44,7 +45,6 @@
     - Data Visualization
 
 - name: Colon Cancer Survival Analysis
-  featured: true
   url:
   description:
     Performed a survival analysis on a colon cancer dataset, comparing treatments,
@@ -55,7 +55,6 @@
     - Data Visualization
 
 - name: Ti84 Cheat Programs
-  featured: true
   url: https://github.com/AI-Enthusiast/TI84-Cheat-Programs
   description:
     Programs most built to make math exams and homework easier. Programs build
@@ -78,7 +77,6 @@
     - Parser
 
 - name: YT Music AI
-  featured: true
   url: https://github.com/YoussefRaafatNasry/git-for-wizards/
   description:
     Scraps music from YT and stores meta data about music. It then analyzes the music
@@ -90,6 +88,7 @@
     - Google API
 
 - name: Smart Trap
+  featured: true
   url: https://github.com/YoussefRaafatNasry/cp-journey/
   description:
     A Livetrap (havahart like) that can detect the type of animal inside and make a decision
@@ -109,6 +108,7 @@
     - BeutifulSoup
 
 - name: WW2 U-Boat Survival Analysis
+  featured: true
   url: https://github.com/AI-Enthusiast/WW2_Analysis
   description:
       Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
