@@ -77,7 +77,7 @@
     - Parser
 
 - name: YT Music AI
-  url: https://github.com/YoussefRaafatNasry/git-for-wizards/
+  url: https://github.com/AI-Enthusiast/YT-Music-AI
   description:
     Scraps music from YT and stores meta data about music. It then analyzes the music
     files and learns the characteristics of high performing music. Model is then trained to 
@@ -89,10 +89,10 @@
 
 - name: Smart Trap
   featured: true
-  url: https://github.com/YoussefRaafatNasry/cp-journey/
+  url: https://github.com/AI-Enthusiast/Smart-Trap
   description:
     A Livetrap (havahart like) that can detect the type of animal inside and make a decision
-    on triggering the trap or not. It can also send a notifications to the user.
+    on triggering the trap or not. It can also send slack notifications to the user.
   tags:
     - CV2
     - Image Classification
