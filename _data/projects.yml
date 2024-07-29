@@ -10,9 +10,9 @@
     - Applied Machine Learning
     - Data Visualization
 
-- name: Language Bias Check
+- name: Pronoun Bias in 19th Century Novels
   featured: true
-  url: https://github.com/averyPike/languageBiasCheck
+  url: https://github.com/AI-Enthusiast/Pronouns19CNovels
   description:
     Using POS tagging for pronouns to detect objectification, and combined with NER to 
     predict the gender of a character in a text.
