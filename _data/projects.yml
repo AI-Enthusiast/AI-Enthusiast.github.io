@@ -77,7 +77,7 @@
     - Parser
 
 - name: YT Music AI
-  url: https://github.com/AI-Enthusiast/YT-Music-AI
+  url: https://ai-enthusiast.github.io/YT-Music-AI/
   description:
     Scraps music from YT and stores meta data about music. It then analyzes the music
     files and learns the characteristics of high performing music. Model is then trained to 
