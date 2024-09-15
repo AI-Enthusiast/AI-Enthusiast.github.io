@@ -1,9 +1,20 @@
 # project urls can be a github.io page, a github repo, or any other link
+- name: 18650 Accelerated Battery Life Testing
+  featured: true
+  url: https://ai-enthusiast.github.io/18650-Accelerated-Battery-Life-Testing/
+  description:
+    A comparison of traditional survival analysis techniques against machine learning
+    models to predict the life of a battery.
+  tags:
+    - Survival Analysis
+    - Machine Learning
+    - Data Visualization
+
 - name: PDX Housing Analysis
   featured: true
   url: https://github.com/AI-Enthusiast/PDX-Housing-Analysis
   description:
-    An exploration of the PDX housing market (july 2020 - july 2021) and performing a 
+    An exploration of the PDX housing market (july 2020 - july 2021) and performing a
     survival analysis of the market in addition to a predictive pricing model.
   tags:
     - Survival Analysis
@@ -12,9 +23,9 @@
 
 - name: Pronoun Bias in 19th Century Novels
   featured: true
-  url: https://github.com/AI-Enthusiast/Pronouns19CNovels
+  url: https://ai-enthusiast.github.io/Pronouns-Bias-19C-Novels/
   description:
-    Using POS tagging for pronouns to detect objectification, and combined with NER to 
+    Using POS tagging for pronouns to detect objectification, and combined with NER to
     predict the gender of a character in a text.
   tags:
     - Spark NLP
@@ -23,7 +34,7 @@
 
 - name: Job Search
   featured: true
-  url: https://github.com/AI-Enthusiast/Job_Search
+  url: https://wu-msds-capstones.github.io/capstone-writeup-cormac-miles-will-1/
   description:
     Scrapes Jobs From Indeed, LinkedIn, Blind, and SimplyHired. Then leverages users
     skills in a weighted algorithm to find the best job for them. Also includes a
@@ -80,7 +91,7 @@
   url: https://ai-enthusiast.github.io/YT-Music-AI/
   description:
     Scraps music from YT and stores meta data about music. It then analyzes the music
-    files and learns the characteristics of high performing music. Model is then trained to 
+    files and learns the characteristics of high performing music. Model is then trained to
     predict high performing songs, selects underrated music from downloaded.
   tags:
     - Machine Learning
@@ -88,7 +99,6 @@
     - Google API
 
 - name: Smart Trap
-  featured: true
   url: https://github.com/AI-Enthusiast/Smart-Trap
   description:
     A Livetrap (havahart like) that can detect the type of animal inside and make a decision
@@ -101,7 +111,7 @@
 - name: Inky World
   url: https://github.com/AI-Enthusiast/Inky
   description:
-    Refresh this low energy display every 10 mins with, the news, weather, quotes, 
+    Refresh this low energy display every 10 mins with, the news, weather, quotes,
     deviant art, personal pictures and xkcd comics.
   tags:
     - Raspberry Pi
@@ -113,8 +123,8 @@
   featured: true
   url: https://ai-enthusiast.github.io/WW2_Analysis/
   description:
-      Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
-      analysis on the dataset to determine the best course of action for a U-Boat captain.
+    Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
+    analysis on the dataset to determine the best course of action for a U-Boat captain.
   tags:
     - Survival Analysis
     - Beautiful Soup
@@ -132,15 +142,15 @@
     - Script
 
 
-- name: UFC Lobo
-  url: https://github.com/AI-Enthusiast/UFC_lobo
-  description:
-    Scrapes UFC data and compares fighters to assist in determining the outcome of a fight. 
-    Future plans include limb approximation for a better dataset creation.
-  tags:
-    - BeautifulSoup
-    - Machine Learning
-    - Data Visualization
+#- name: UFC Lobo
+#  url: https://github.com/AI-Enthusiast/UFC_lobo
+#  description:
+#    Scrapes UFC data and compares fighters to assist in determining the outcome of a fight.
+#    Future plans include limb approximation for a better dataset creation.
+#  tags:
+#    - BeautifulSoup
+#    - Machine Learning
+#    - Data Visualization
 
 
 - name: Game of Life
@@ -170,11 +180,11 @@
     - HTML
     - Jekyll
 
-  #- name: Laputa
-  #  url:
-  #  description:
-  #    Drone swarms which are capable of creating a 3D map of the environment and points of interest.
-  #    Maintain surveillance and provide real-time data to the user.
-  #  tags:
-  #    - Bash
-  #    - Script
+#- name: Laputa
+          #  url:
+          #  description:
+          #    Drone swarms which are capable of creating a 3D map of the environment and points of interest.
+          #    Maintain surveillance and provide real-time data to the user.
+          #  tags:
+          #    - Bash
+          #    - Script
