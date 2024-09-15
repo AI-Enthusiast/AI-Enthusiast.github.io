@@ -111,7 +111,7 @@
 
 - name: WW2 U-Boat Survival Analysis
   featured: true
-  url: https://github.com/AI-Enthusiast/WW2_Analysis
+  url: https://ai-enthusiast.github.io/WW2_Analysis/
   description:
       Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
       analysis on the dataset to determine the best course of action for a U-Boat captain.
