@@ -45,7 +45,7 @@
     - Data Visualization
 
 - name: Colon Cancer Survival Analysis
-  url:
+  url: https://github.com/AI-Enthusiast/colon_cancer_analysis
   description:
     Performed a survival analysis on a colon cancer dataset, comparing treatments,
     age and other factors to determine the best course of action for patients.
