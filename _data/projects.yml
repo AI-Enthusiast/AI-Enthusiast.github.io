@@ -44,6 +44,29 @@
     - SQL
     - Machine Learning
 
+- name: C and Java like interpreter
+  featured: true
+  url: https://github.com/AI-Enthusiast/C-and-Java-like-Interpreter
+  description:
+    A full interpreter for a language that is a mix between C and Java. Includes
+    a lexer, parser, and interpreter.
+  tags:
+    - Scheme
+    - Interpreter
+    - Lexer
+    - Parser
+
+- name: WW2 U-Boat Survival Analysis
+  featured: true
+  url: https://ai-enthusiast.github.io/WW2_Analysis/
+  description:
+    Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
+    analysis on the dataset to determine the best course of action for a U-Boat captain.
+  tags:
+    - Survival Analysis
+    - Beautiful Soup
+    - Data Visualization
+
 - name: Fire Lookout
   url: https://github.com/AI-Enthusiast/Fire_Lookout
   description:
@@ -74,18 +97,6 @@
     - Ti Basic
     - Calculator
     - Cheat Programs
-
-- name: C and Java like interpreter
-  featured: true
-  url: https://github.com/AI-Enthusiast/C-and-Java-like-Interpreter
-  description:
-    A full interpreter for a language that is a mix between C and Java. Includes
-    a lexer, parser, and interpreter.
-  tags:
-    - Scheme
-    - Interpreter
-    - Lexer
-    - Parser
 
 - name: YT Music AI
   url: https://ai-enthusiast.github.io/YT-Music-AI/
@@ -118,17 +129,6 @@
     - Python
     - Inky
     - BeutifulSoup
-
-- name: WW2 U-Boat Survival Analysis
-  featured: true
-  url: https://ai-enthusiast.github.io/WW2_Analysis/
-  description:
-    Scraped together a dataset of every U-Boat in WW2 and their fate. Then performed a survival
-    analysis on the dataset to determine the best course of action for a U-Boat captain.
-  tags:
-    - Survival Analysis
-    - Beautiful Soup
-    - Data Visualization
 
 - name: Google Pinger
   url: https://github.com/AI-Enthusiast/wifi_pinger
