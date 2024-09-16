@@ -1,11 +1,12 @@
 # project urls can be a github.io page, a github repo, or any other link
-- name: 18650 Accelerated Battery Life Testing
+- name: 18650 Battery Life Testing
   featured: true
   url: https://ai-enthusiast.github.io/18650-Accelerated-Battery-Life-Testing/
   description:
     A comparison of traditional survival analysis techniques against machine learning
     models to predict the life of a battery.
   tags:
+    - Accelerated Life Testing
     - Survival Analysis
     - Machine Learning
     - Data Visualization
