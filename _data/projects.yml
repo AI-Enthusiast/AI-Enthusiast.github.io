@@ -232,7 +232,8 @@
   description:
     Uses Google's API and a Slack bot to send text messages to a user.
   tags:
-    - Add tags here
+    - Google API
+    - Slack Bots
 
 - name: Cinema Active Analysis
   url:
@@ -258,7 +259,9 @@
   description:
     A chess game that allows for the user to play against the computer.
   tags:
-    - Add tags here
+    - Python
+    - Reinforcement Learning
+    - Optimization
 
 - name: Scrape Classes
   url:
