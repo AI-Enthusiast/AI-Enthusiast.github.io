@@ -13,7 +13,7 @@
 ## School Shooting Analysis
 ## Quants
 ## Guns Galore
-## Text Google Tools
+## Texting Google Tools
 ## Cinema Active Analysis
 ## Music Lib Manager
 ## Chess
