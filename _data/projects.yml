@@ -209,15 +209,6 @@
     - Analysis
     - Machine Learning
 
-- name: Quants
-  url:
-  description:
-    Set of scripts that scrape various data and performs predictions on the stock market.
-  tags:
-    - Web Scraping
-    - Machine Learning
-    - Stock Market
-
 - name: Guns Galore
   url:
   description:
@@ -226,6 +217,15 @@
     - Data Visualization
     - Machine Learning
     - Web Scraping
+
+- name: Quants
+  url:
+  description:
+    Set of scripts that scrape various data and performs predictions on the stock market.
+  tags:
+    - Web Scraping
+    - Machine Learning
+    - Stock Market
 
 - name: Texting Google Tools
   url:
