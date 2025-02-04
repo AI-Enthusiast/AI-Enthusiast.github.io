@@ -19,7 +19,7 @@
     survival analysis of the market in addition to a predictive pricing model.
   tags:
     - Survival Analysis
-    - Applied Machine Learning
+    - Machine Learning
     - Data Visualization
 
 - name: Pronoun Bias in 19th Century Novels
@@ -41,7 +41,7 @@
     skills in a weighted algorithm to find the best job for them. Also includes a
     survival analysis of the job market.
   tags:
-    - Selenium
+    - Web Scraping
     - SQL
     - Machine Learning
 
@@ -53,7 +53,7 @@
     a lexer, parser, and interpreter.
   tags:
     - Scheme
-    - Interpreter
+    - Custom Interpreter
     - Lexer
     - Parser
 
@@ -75,7 +75,7 @@
     database of wildfires. Then uses a predictive model to predict the likelihood of
     a wildfire in a given area.
   tags:
-    - BeautifulSoup
+    - Web Scraping
     - Machine Learning
     - Data Visualization
 
@@ -96,8 +96,7 @@
     2013-2016, many by me, many more not by me. Please use and distribute further
   tags:
     - Ti Basic
-    - Calculator
-    - Cheat Programs
+    - Math
 
 - name: YT Music AI
   url: https://ai-enthusiast.github.io/YT-Music-AI/
@@ -117,7 +116,8 @@
     on triggering the trap or not. It can also send slack notifications to the user.
   tags:
     - CV2
-    - Image Classification
+    - Image recognition
+    - Machine Learning
     - Raspberry Pi
 
 - name: Inky World
@@ -127,9 +127,9 @@
     deviant art, personal pictures and xkcd comics.
   tags:
     - Raspberry Pi
-    - Python
+    - Web Scraping
     - Inky
-    - BeutifulSoup
+    - Pimoroni
 
 - name: Google Pinger
   url: https://github.com/AI-Enthusiast/wifi_pinger
@@ -138,9 +138,9 @@
     A simple script that pings google every 10 s to keep the internet connection alive.
     When lost it alerts the user and begins to attempt to reconnect.
   tags:
+    - Bash
     - Requests
     - Python
-    - Script
 
 
 #- name: UFC Lobo
@@ -160,7 +160,6 @@
     An implementation of Conway's Game of Life in Python that allows for the user to
     set the board size and interact with the board.
   tags:
-    - Python
     - Game of Life
     - Pygame
 
@@ -169,8 +168,8 @@
   description:
     Analyzed Kickstarter data to determine what factors lead to a successful campaign.
   tags:
-    - Data Visualization
     - Analysis
+    - Data Visualization
 
 - name: My Portfolio
   url: https://ai-enthusiast.github.io/
@@ -186,9 +185,9 @@
   description:
     An app that tracks the user's fitness goals and provides insights on how to improve.
   tags:
-      - Machine Learning
-      - Data Visualization
       - App Development
+      - Data Visualization
+      - Machine Learning
 
     #- name: Laputa
     #  url:
@@ -241,6 +240,8 @@
   description:
     Uses Google's API and a Slack bot to send text messages to a user.
   tags:
+    - Cloud Computing
+    - Docker
     - Google API
     - Slack Bots
 
@@ -253,6 +254,7 @@
     - Docker
     - Machine Learning
     - Web Scraping
+    - Cloud Computing
 
 - name: Music Lib Manager
   url:
@@ -268,8 +270,7 @@
   description:
     A chess game that allows for the user to play against the computer.
   tags:
-    - Python
-    - Reinforcement Learning
+    - Machine Learning
     - Optimization
 
 - name: Scrape Classes
@@ -322,9 +323,9 @@
   description:
     A neural network model that identifies objects in radar data with a 98% accuracy.
   tags:
+    - Cloud Computing
     - Docker
     - Machine Learning
-    - Neural Networks
     - Radar Data
 
 - name: Services Email Agents
