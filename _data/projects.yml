@@ -172,6 +172,15 @@
     - Data Visualization
     - Analysis
 
+- name: Fandom Judger
+  url:
+  description:
+    An Ao3 fanfiction scraper that uses NLP to determine the quality of a fanfiction.
+  tags:
+    - NLP
+    - Web Scraping
+    - Machine Learning
+
 - name: My Portfolio
   url: https://ai-enthusiast.github.io/
   description:
@@ -189,15 +198,6 @@
     #  tags:
     #    - Bash
     #    - Script
-
-- name: Fandom Judger
-  url:
-  description:
-    An Ao3 fanfiction scraper that uses NLP to determine the quality of a fanfiction.
-  tags:
-    - NLP
-    - Web Scraping
-    - Machine Learning
 
 - name: 15yr School Shooting Analysis
   url:
