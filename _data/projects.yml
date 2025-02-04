@@ -190,137 +190,137 @@
     #    - Bash
     #    - Script
 
-    - name: Fandom Judger
-      url:
-      description:
-        An Ao3 fanfiction scraper that uses NLP to determine the quality of a fanfiction.
-      tags:
-        - NLP
-        - Web Scraping
-        - Machine Learning
+- name: Fandom Judger
+  url:
+  description:
+    An Ao3 fanfiction scraper that uses NLP to determine the quality of a fanfiction.
+  tags:
+    - NLP
+    - Web Scraping
+    - Machine Learning
 
-    - name: 15yr School Shooting Analysis
-      url:
-      description:
-        Analyzed 15 years of school shooting data to determine the best course of action
-        for schools to take to prevent future shootings.
-      tags:
-        - Data Visualization
-        - Analysis
-        - Machine Learning
+- name: 15yr School Shooting Analysis
+  url:
+  description:
+    Analyzed 15 years of school shooting data to determine the best course of action
+    for schools to take to prevent future shootings.
+  tags:
+    - Data Visualization
+    - Analysis
+    - Machine Learning
 
-    - name: Quants
-      url:
-      description:
-        Set of scripts that scrape various data and performs predictions on the stock market.
-      tags:
-        - Web Scraping
-        - Machine Learning
-        - Stock Market
+- name: Quants
+  url:
+  description:
+    Set of scripts that scrape various data and performs predictions on the stock market.
+  tags:
+    - Web Scraping
+    - Machine Learning
+    - Stock Market
 
-    - name: Guns Galore
-      url:
-      description:
-        Scrapes gun from a local gun store and performs an analysis across their inventory.
-      tags:
-        - Data Visualization
-        - Machine Learning
-        - Web Scraping
+- name: Guns Galore
+  url:
+  description:
+    Scrapes gun from a local gun store and performs an analysis across their inventory.
+  tags:
+    - Data Visualization
+    - Machine Learning
+    - Web Scraping
 
-    - name: Texting Google Tools
-      url:
-      description:
-        Uses Google's API and a Slack bot to send text messages to a user.
-      tags:
-        - Add tags here
+- name: Texting Google Tools
+  url:
+  description:
+    Uses Google's API and a Slack bot to send text messages to a user.
+  tags:
+    - Add tags here
 
-    - name: Cinema Active Analysis
-      url:
-      description:
-        Scrapes movie data and performs an analysis on the data.
-      tags:
-        - Data Visualization
-        - Docker
-        - Machine Learning
-        - Web Scraping
+- name: Cinema Active Analysis
+  url:
+  description:
+    Scrapes movie data and performs an analysis on the data.
+  tags:
+    - Data Visualization
+    - Docker
+    - Machine Learning
+    - Web Scraping
 
-    - name: Music Lib Manager
-      url:
-      description:
-        Auto rebuilds spotify playlists based on the user's music library.
-      tags:
-        - Web Scraping
-        - NLP
-        - Machine Learning
+- name: Music Lib Manager
+  url:
+  description:
+    Auto rebuilds spotify playlists based on the user's music library.
+  tags:
+    - Web Scraping
+    - NLP
+    - Machine Learning
 
-    - name: Chess
-      url:
-      description:
-        A chess game that allows for the user to play against the computer.
-      tags:
-        - Add tags here
+- name: Chess
+  url:
+  description:
+    A chess game that allows for the user to play against the computer.
+  tags:
+    - Add tags here
 
-    - name: Scrape Classes
-      url:
-      description:
-        A dockerized web scraper that scrapes classes and archives them.
-      tags:
-        - Web Scraping
-        - Docker
-        - Script
+- name: Scrape Classes
+  url:
+  description:
+    A dockerized web scraper that scrapes classes and archives them.
+  tags:
+    - Web Scraping
+    - Docker
+    - Script
 
-    - name: LaTeX Resume
-      url:
-      description:
-        Creddle shut down so I made my own resume in LaTeX and added a few features.
-      tags:
-        - LaTeX
-        - PDF text extraction
+- name: LaTeX Resume
+  url:
+  description:
+    Creddle shut down so I made my own resume in LaTeX and added a few features.
+  tags:
+    - LaTeX
+    - PDF text extraction
 
-    - name: SMBs Business Toolkit
-      url:
-      description:
-        A comprehensive toolkit designed to streamline business data analysis and project management for small and medium-sized businesses.
-      tags:
-        - Google API
-        - Slack Bots
-        - Semantic Kernel
-        - AutoGen
+- name: SMBs Business Toolkit
+  url:
+  description:
+    A comprehensive toolkit designed to streamline business data analysis and project management for small and medium-sized businesses.
+  tags:
+    - Google API
+    - Slack Bots
+    - Semantic Kernel
+    - AutoGen
 
-    - name: Sales Analysis AI Agent
-      url:
-      description:
-        An AI agent that performs sales analysis and provides insights to the user.
-      tags:
-        - AutoGen
-        - DeepSeek
-        - Google API
+- name: Sales Analysis AI Agent
+  url:
+  description:
+    An AI agent that performs sales analysis and provides insights to the user.
+  tags:
+    - AutoGen
+    - DeepSeek
+    - Google API
 
-    - name: Illumination Data Solutions LLC
-      url:
-      description:
-        A consulting firm that provides data solutions to businesses.
-      tags:
-        - Machine Learning
-        - Data Engineering
-        - Data Science
+- name: Illumination Data Solutions LLC
+  url:
+  description:
+    A consulting firm that provides data solutions to businesses.
+  tags:
+    - Machine Learning
+    - Data Engineering
+    - Data Science
 
-    - name: Radar NN Model
-      url:
-      description:
-        A neural network model that identifies objects in radar data with a 98% accuracy.
-      tags:
-        - Docker
-        - Machine Learning
-        - Neural Networks
-        - Radar Data
+- name: Radar NN Model
+  url:
+  description:
+    A neural network model that identifies objects in radar data with a 98% accuracy.
+  tags:
+    - Docker
+    - Machine Learning
+    - Neural Networks
+    - Radar Data
 
-    - name: Services Email Agents
-      url:
-      description:
-        A set of email agents that provide services to the user.
-      tags:
-        - Semantic Kernel
-        - AutoGen
-        - DeepSeek
-        - Google API
+- name: Services Email Agents
+  url:
+  description:
+    A set of email agents that provide services to the user.
+  tags:
+    - Semantic Kernel
+    - AutoGen
+    - DeepSeek
+    - Google API
