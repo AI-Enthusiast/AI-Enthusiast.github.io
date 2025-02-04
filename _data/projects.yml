@@ -181,6 +181,15 @@
     - HTML
     - Jekyll
 
+- name: Fitness App
+  url:
+  description:
+    An app that tracks the user's fitness goals and provides insights on how to improve.
+  tags:
+      - Machine Learning
+      - Data Visualization
+      - App Development
+
     #- name: Laputa
     #  url:
     #  description:
