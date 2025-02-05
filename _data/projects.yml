@@ -11,11 +11,11 @@
     - Machine Learning
     - Data Visualization
 
-- name: PDX Housing Analysis
+- name: Housing Market Analysis
   featured: true
   url: https://github.com/AI-Enthusiast/PDX-Housing-Analysis
   description:
-    An exploration of the PDX housing market (july 2020 - july 2021) and performing a
+    An exploration of the housing market and performing a
     survival analysis of the market in addition to a predictive pricing model.
   tags:
     - Survival Analysis
