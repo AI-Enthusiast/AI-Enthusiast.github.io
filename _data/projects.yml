@@ -306,7 +306,7 @@
     An AI agent that performs sales analysis and provides insights to the user.
   tags:
     - AutoGen
-    - DeepSeek
+    - LLMs
     - Google API
 
 - name: Illumination Data Solutions LLC
@@ -335,5 +335,14 @@
   tags:
     - Semantic Kernel
     - AutoGen
-    - DeepSeek
+    - LLMs
+    - Google API
+    
+- name: RAG Resume Upgrader
+  url:
+  description:
+    A resume upgrader that uses the RAG model to provide insights on how to improve the user's resume.
+  tags:
+    - Semantic Kernel
+    - LLMs
     - Google API
